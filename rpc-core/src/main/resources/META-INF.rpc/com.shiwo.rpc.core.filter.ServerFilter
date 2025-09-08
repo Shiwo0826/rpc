@@ -1,0 +1,4 @@
+serverLogFilterImpl=com.shiwo.rpc.core.filter.server.ServerLogFilterImpl
+serverTokenFilterImpl=com.shiwo.rpc.core.filter.server.ServerTokenFilterImpl
+serverServiceBeforeLimitFilterImpl=com.shiwo.rpc.core.filter.server.ServerServiceBeforeLimitFilterImpl
+serverServiceAfterLimitFilterImpl=com.shiwo.rpc.core.filter.server.ServerServiceAfterLimitFilterImpl

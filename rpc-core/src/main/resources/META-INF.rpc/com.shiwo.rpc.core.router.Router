@@ -1,0 +1,2 @@
+random=com.shiwo.rpc.core.router.RandomRouterImpl
+rotate=com.shiwo.rpc.core.router.RotateRouterImpl

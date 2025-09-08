@@ -1,0 +1,4 @@
+fastJson=com.shiwo.rpc.core.serialize.fastjson.FastJsonSerializeFactory
+hessian=com.shiwo.rpc.core.serialize.hessian.HessianSerializeFactory
+jdk=com.shiwo.rpc.core.serialize.jdk.JdkSerializeFactory
+kryo=com.shiwo.rpc.core.serialize.kryo.KryoSerializeFactory

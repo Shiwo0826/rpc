@@ -1,0 +1,3 @@
+providerNodeUpdateListener=com.shiwo.rpc.core.common.event.listener.ProviderNodeUpdateListener
+serviceDestroyListener=com.shiwo.rpc.core.common.event.listener.ServiceDestroyListener
+serviceUpdateListener=com.shiwo.rpc.core.common.event.listener.ServiceUpdateListener

@@ -1,0 +1,2 @@
+jdk=com.shiwo.rpc.core.proxy.jdk.JDKProxyFactory
+javassist=com.shiwo.rpc.core.proxy.javassist.JavassistProxyFactory
